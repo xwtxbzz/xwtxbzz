@@ -17,6 +17,7 @@
         <option value="str.__or__" />
         <option value="dict.append" />
         <option value="typing.BinaryIO.__mod__" />
+        <option value="str.length" />
       </list>
     </option>
   </inspection_tool>
